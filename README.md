@@ -77,53 +77,53 @@ Data diambil dari Twitter menggunakan kata kunci terkait IKN. Kami menggunakan d
 ## Analisis
 
 ### Wordcloud Keseluruhan
-![Gambar 3.1 Cloudword](path/to/image)
+![Gambar 3.1 Cloudword](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/cloudword.png)
 
 Wordcloud keseluruhan menunjukkan kata-kata yang paling sering muncul dalam percakapan tentang IKN. Kata-kata seperti "ikn", "bangun", "nusantara", "jadi", dan "lanjut" mendominasi pembicaraan.
 
 ### Wordcloud Berdasarkan Sentimen
 
 #### Sentimen Positif
-![Gambar 3.2 Cloudword klasifikasi positif](path/to/image)
+![Gambar 3.2 Cloudword klasifikasi positif](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/positive_cloudword.png)
 
 Wordcloud ini menunjukkan kata-kata yang sering muncul dalam tweet dengan sentimen positif.
 
 #### Sentimen Negatif
-![Gambar 3.3 Cloudword klasifikasi negatif](path/to/image)
+![Gambar 3.3 Cloudword klasifikasi negatif](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/negative_cloudword.png)
 
 Wordcloud ini menunjukkan kata-kata yang sering muncul dalam tweet dengan sentimen negatif.
 
 #### Sentimen Netral
-![Gambar 3.4 Cloudword klasifikasi netral](path/to/image)
+![Gambar 3.4 Cloudword klasifikasi netral](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/neutral_cloudword.png)
 
 Wordcloud ini menunjukkan kata-kata yang sering muncul dalam tweet dengan sentimen netral.
 
 ### Distribusi Sentimen
 
 #### TextBlob
-![Gambar 3.5 Distribusi sentimen IKN (TextBlob)](path/to/image)
+![Gambar 3.5 Distribusi sentimen IKN (TextBlob)](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/distribusi_sentimen_textblob.png)
 
 Distribusi sentimen berdasarkan TextBlob menunjukkan bahwa sentimen masyarakat lebih condong ke arah positif dengan 523 tweet positif, 398 tweet netral, dan 138 tweet negatif.
 
 #### Naive Bayes
-![Gambar 3.6 Distribusi sentimen IKN (Naive Bayes)](path/to/image)
+![Gambar 3.6 Distribusi sentimen IKN (Naive Bayes)](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/distribusi_sentimen_naivebayes.png)
 
 Distribusi sentimen berdasarkan Naive Bayes menunjukkan bahwa sentimen masyarakat lebih condong ke arah netral dengan 551 tweet netral, 453 tweet positif, dan 55 tweet negatif.
 
 ### Wordcloud Berdasarkan Naive Bayes
 
 #### Sentimen Positif
-![Gambar 3.7 Cloudword klasifikasi bayes positif](path/to/image)
+![Gambar 3.7 Cloudword klasifikasi bayes positif](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/positive_cloudword_naivebayes.png)
 
 Wordcloud ini menunjukkan kata-kata yang sering muncul dalam tweet dengan sentimen positif berdasarkan Naive Bayes.
 
 #### Sentimen Negatif
-![Gambar 3.8 Cloudword klasifikasi bayes negatif](path/to/image)
+![Gambar 3.8 Cloudword klasifikasi bayes negatif]([path/to/image](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/negative_cloudword_naivebayes.png))
 
 Wordcloud ini menunjukkan kata-kata yang sering muncul dalam tweet dengan sentimen negatif berdasarkan Naive Bayes.
 
 #### Sentimen Netral
-![Gambar 3.9 Cloudword klasifikasi bayes netral](path/to/image)
+![Gambar 3.9 Cloudword klasifikasi bayes netral](https://github.com/Aryasharii/Pengantar-sains-data/blob/UAS/image/neutral_cloudword_naivebayes.png)
 
 Wordcloud ini menunjukkan kata-kata yang sering muncul dalam tweet dengan sentimen netral berdasarkan Naive Bayes.
 
